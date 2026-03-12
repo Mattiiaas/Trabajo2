@@ -55,3 +55,6 @@ dependency-reduced-pom.xml
 
 README.html
 application.properties
+
+# Local sandbox folder (Directive from the company)
+/sandbox/
