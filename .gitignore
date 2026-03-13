@@ -54,7 +54,6 @@ dependency-reduced-pom.xml
 *.vsix
 
 README.html
-application.properties
 
 # Local sandbox folder (Directive from the company)
 /sandbox/
